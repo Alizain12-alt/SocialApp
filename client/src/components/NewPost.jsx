@@ -64,7 +64,7 @@ export default class NewPost extends Component {
                 <img src={imgUrl} style={{ width:'50px',height:'50px',borderRadius:'100%' }}/>
                 <h3>{username}</h3>
                 </div> <br/>
-                <textarea name="text" id="" cols="30" rows="10" 
+                <textarea name="text" id="" cols="30" rows="15" 
                 value={text}
                 onChange={this.onChange}
                 /><br/>
