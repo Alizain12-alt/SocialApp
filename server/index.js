@@ -26,7 +26,7 @@ app.use((req,res,next)=>{
 
 app.use((err,req,res,next)=>{
     res.json({
-        err:err.message || 'Something went wrong'
+        err:err.message || 'Something is wrong'
     })
 
 })
