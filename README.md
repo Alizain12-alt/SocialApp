@@ -1,6 +1,5 @@
 # SocialApp
 A simple social media application with users, posts, likes and comments - developed using React, Node, Express and MongoDB.
-![mern-social](https://user-images.githubusercontent.com/50075905/60708089-db684f80-9f2a-11e9-91f4-345f04c61001.PNG)
 
 
 ###  How to run this code
